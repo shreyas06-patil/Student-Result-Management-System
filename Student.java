@@ -152,7 +152,7 @@
        System.out.println("  1.Add student");
        System.out.println("  2.Display all students");
        System.out.println("  3.Search student");
-       System.out.println("  4.Found topper");
+       System.out.println("  4.Find topper");
        System.out.println("  5.Exit");
        
        do{
